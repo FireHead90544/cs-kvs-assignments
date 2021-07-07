@@ -1,4 +1,4 @@
-This repository has been archived and is now read-only. Will be un-archived to push some updates and will be back archived after that, You might fork it test out things on your own. Hope it helps you learn something.
+This repository has been un-archived now. Contributions are accepted. Fork it test out things on your own. Hope it helps you learn something :)
 
 Rudransh Joshi
 Class XII (A) \[Kendriya Vidyalaya Haldwani Cantt]
